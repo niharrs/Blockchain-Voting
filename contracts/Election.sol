@@ -13,15 +13,14 @@ contract Election {
 	mapping(uint => Candidate) public candidates; //Key Value pair
 	//Fetch candidates
 	//Store candidate count
-	uint public candidatesCount; 
+	uint public candidatesCount;
 
 	//Voted event
 	event votedEvent (uint indexed _candidateId);
 
 	function Election() public {
-		addCandidate("Niharika");
-		addCandidate("Rachel");
-		addCandidate("Tom");
+		addCandidate("Friends");
+		addCandidate("How I Met Your Mother");
 	}
 
 	function addCandidate (string _name) private {
