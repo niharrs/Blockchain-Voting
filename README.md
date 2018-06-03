@@ -22,8 +22,9 @@ What things you need to install the software and how to install them
 All along Ganache must be running!
 
 ```
-1. $truffle migrate --reset
-2. $ npm run dev
+1. $ truffle migrate --reset
+2. $ npm install
+3. $ npm run dev
 ```
 
 This will fire up localhost:3000. Log into Metamask using your Ganache private key. 
