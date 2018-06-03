@@ -1,6 +1,6 @@
-# Blockchain Voting on Ethereum
+# Blockchain Voting on Ethereum: Polling between Friends and How I Met Your Mother
 
-This is a blockchain voting system which runs on Ethereum network. It records votes from different participants to different candidates.
+This is a blockchain voting system which runs on Ethereum network. It stores polling results between Friends TV Show and How I Met Your Mother TV Show. 
 
 ## Getting Started
 
